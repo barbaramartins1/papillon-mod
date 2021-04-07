@@ -12,7 +12,9 @@ Meu nome eh Matheus Ueta, tenho 16 anos e estudo no colégio Módulo e minha fun
 ![](https://github.com/Papillon-3RB/papillon-mod/blob/main/giovanna.jpeg)
 Meu nome é Giovanna tenho 17 anos estudo no colegio modulo e a minha função é
 ![](https://github.com/Papillon-3RB/papillon-mod/blob/main/livia.jpeg)
-Meu nome é Livia tenho 16 anos estudo no colegio modul e a minha função é 
+Meu nome é Livia tenho 16 anos estudo no colegio modulo e a minha função é
+![](https://github.com/Papillon-3RB/papillon-mod/blob/main/gabriela.jpeg)
+Meu nome é Gabriela tenho 16 anos estudo no colegio modulo e a minha função é
 
 
 ## **o problema;**
